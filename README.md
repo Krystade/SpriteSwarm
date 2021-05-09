@@ -6,3 +6,7 @@ Simply download all the files of this repository and open the index.html file in
 
 Click to cycle through the three different temperments of bees.
 Control the swarm by using the arrow keys.
+
+### Example
+
+![example of the program](/example.png)
